@@ -8,3 +8,5 @@ This is the Front End Application for the WeLoveMovies project. Follow the instr
 1. Run `npm install`.
 
 Use `npm start` to run the application. If you deploy this application, create a `.env.production` file similar to the `.env.development` file.
+
+Please visit the site [here](https://we-love-movies-front-end-brown.vercel.app/).
